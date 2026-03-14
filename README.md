@@ -17,6 +17,8 @@ E --> F[Google Cloud VM Auto Scaling]
 
 F --> G[Additional ML Compute Node]
 
+
+
 ## Components
 
 ### Gateway Server
