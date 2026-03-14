@@ -16,8 +16,7 @@ C --> E[CPU Monitor monitor.py]
 E --> F[Google Cloud VM Auto Scaling]
 
 F --> G[Additional ML Compute Node]
-
-
+```
 
 ## Components
 
