@@ -172,5 +172,6 @@ Generate multiple users to simulate heavy load.
 
 # Author
 
-Rajat Chaddha
+Rajat Chaddhaa
+
 M.Tech Artificial Intelligence
